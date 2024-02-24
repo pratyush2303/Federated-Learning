@@ -1,5 +1,7 @@
 # Federated-Learning
 
+• The work demonstrates that federated fine-tuning is a viable and effective approach, offering the promise of maintaining high standards of model performance while adhering to data privacy and security concerns.
+
 •	Engineered distributed deep learning framework by leveraging homomorphic encryption, customized for large-scale language models.
 
 •	Fine-tuned language models (eg. BERT, MiniLM, Roberta, Deberta) for MRPC tasks within the GLUE benchmark, enhancing proficiency in natural language to 89.71% F-1 score in recreated model and averaged weights of data subsets in a federated model.
