@@ -1,4 +1,4 @@
-# Federated-Learning
+# Federated-Learning-within-LLMs
 
 • The work demonstrates that federated fine-tuning is a viable and effective approach, offering the promise of maintaining high standards of model performance while adhering to data privacy and security concerns.
 
